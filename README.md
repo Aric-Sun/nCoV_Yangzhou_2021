@@ -1,5 +1,5 @@
 # nCoV_Yangzhou_2021
-扬州2021新型冠状肺炎确诊病例轨迹汇总，以及新增病例数据可视化
+扬州2021新型冠状肺炎确诊病例[轨迹汇总](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/blob/main/%E8%BD%A8%E8%BF%B9.md)，以及新增病例数据可视化
 
 ## 数据统计及可视化
 
