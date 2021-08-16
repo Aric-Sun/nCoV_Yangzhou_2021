@@ -1,5 +1,12 @@
 # nCoV_Yangzhou_2021
-扬州2021新型冠状肺炎确诊病例[轨迹汇总](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/blob/main/%E8%BD%A8%E8%BF%B9.md)，以及新增病例数据可视化
+扬州2021新型冠状肺炎确诊病例轨迹汇总，以及新增病例数据可视化
+
+## 轨迹
+- 在文件列表中可见，也可直接[点击跳转](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/blob/main/%E8%BD%A8%E8%BF%B9.md)。
+- 收录扬州第一个到最新确诊病例的流动轨迹，每日更新。
+- 所有确诊病例的上一级密接病例均用markdown锚点标注，点击即可跳转到指定位置。 
+- 以日期+确诊病例编号的形式部署多级标题，以便在某些软件中形成目录视图，方便定位。
+- 同步生成word和PDF文档，提高传播兼容性，发布在[Release](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases)上。锚点链接均可点击跳转，目录视图的有无受限于打开方式。
 
 ## 数据统计及可视化
 
@@ -27,18 +34,25 @@
 | 8/14 | 18   | 0    | 546  | 235  | 0    | 4      | 542    |
 | 8/15 | 6    | 0    | 552  | 235  | 6    | 10     | 542    |
 
-
 ### 可视化图表
 
-![扬州新增折线图](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/download/1.0.0/new_in_yz_20210814.png "扬州新增折线图")
+![扬州新增折线图](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/download/1.1.0/new_in_yz_20210815.png "扬州新增折线图")
 
-![南京、扬州新增对比折线图](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/download/1.0.0/new_in_yz_nj_20210814.png "南京、扬州新增对比折线图")
+![扬州现有确诊柱状图](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/download/1.1.0/now_in_yz_20210815.png "扬州现有确诊柱状图")
 
-![南京、扬州累计对比柱状图](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/download/1.0.0/sum_in_yz_nj_20210814.png "南京、扬州累计对比柱状图")
+![南京、扬州新增对比折线图](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/download/1.1.0/new_in_yz_nj_20210815.png "南京、扬州新增对比折线图")
+
+![南京、扬州累计对比柱状图](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/download/1.1.0/sum_in_yz_nj_20210815.png "南京、扬州累计对比柱状图")
 
 ## Changelog
 [8/14](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/tag/1.0.0)  
-江苏省卫健委8月15日发布，8月14日0-24时，江苏新增本土确诊病例18例（均为扬州市报告，其中来自集中隔离点17例、居家隔离1例），3例为轻型，15例为普通型。
+initial build  
+> 2021年8月14日0-24时，我市新增本土新冠肺炎确诊病例18例（其中轻型3例，普通型15例）；从来源看，集中隔离点17人，居家隔离1人。截至目前，全市累计报告本土确诊病例546例，出院4例。  
+
+[8/15](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/tag/1.1.0)  
+新增出院数统计，以此计算现有确诊数，并绘制图表。  
+> 2021年8月15日0-24时，我市新增本土新冠肺炎确诊病例6例（其中轻型3例，普通型3例）；从来源看，集中隔离点5人，封控小区筛查1人。截至目前，全市累计报告本土确诊病例552例，出院10例。  
+
 
 ## LICENSE
 [MIT License](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/blob/main/LICENSE)  
