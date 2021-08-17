@@ -38,13 +38,13 @@
 
 ### 可视化图表
 
-![扬州新增折线图](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/download/1.1.0/new_in_yz_20210815.png "扬州新增折线图")
+![扬州新增折线图](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/download/1.1.1/new_in_yz_20210816.png "扬州新增折线图")
 
-![扬州现有确诊柱状图](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/download/1.1.0/now_in_yz_20210815.png "扬州现有确诊柱状图")
+![扬州现有确诊柱状图](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/download/1.1.1/now_in_yz_20210816.png "扬州现有确诊柱状图")
 
-![南京、扬州新增对比折线图](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/download/1.1.0/new_in_yz_nj_20210815.png "南京、扬州新增对比折线图")
+![南京、扬州新增对比折线图](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/download/1.1.1/new_in_yz_nj_20210816.png "南京、扬州新增对比折线图")
 
-![南京、扬州累计对比柱状图](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/download/1.1.0/sum_in_yz_nj_20210815.png "南京、扬州累计对比柱状图")
+![南京、扬州累计对比柱状图](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/download/1.1.1/sum_in_yz_nj_20210816.png "南京、扬州累计对比柱状图")
 
 ## Changelog
 [8/14](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/tag/1.0.0)  
@@ -55,11 +55,10 @@ initial build
 新增出院数统计，以此计算现有确诊数，并绘制图表。  
 > 2021年8月15日0-24时，我市新增本土新冠肺炎确诊病例6例（其中轻型3例，普通型3例）；从来源看，集中隔离点5人，封控小区筛查1人。截至目前，全市累计报告本土确诊病例552例，出院10例。  
 
-8/16  
+[8/16](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/tag/1.1.1)  
 > 2021年8月16日0-24时，我市新增本土新冠肺炎确诊病例3例（均为普通型）；从来源看，集中隔离点2人，封控小区筛查1人。
 > 
 > 经过医护人员精心治疗，经专家评估，10名确诊患者达到出院标准转至定点医院康复。截至目前，全市累计报告本土确诊病例555例，出院20例。
-
 
 ## LICENSE
 [MIT License](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/blob/main/LICENSE)  
