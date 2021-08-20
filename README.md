@@ -36,16 +36,14 @@
 | 8/16 | 3    | 0    | 555  | 235  | 10   | 20     | 535    |
 | 8/17 | 6    | 0    | 561  | 235  | 15   | 35     | 526    |
 | 8/18 | 3    | 0    | 564  | 235  | 13   | 48     | 516    |
+| 8/19 | 2    | 0    | 566  | 235  | 22   | 70     | 496    |
 
 ### 可视化图表
 
-![new_in_yz_20210818](https://user-images.githubusercontent.com/59010287/130061627-176e0df1-693a-4201-81ee-e325bf1b9b68.png)
-
-![now_in_yz_20210818](https://user-images.githubusercontent.com/59010287/130061649-ed54e194-cedf-441f-a6c9-c82c887f5dc6.png)
-
-![new_in_yz_nj_20210818](https://user-images.githubusercontent.com/59010287/130061645-3c962735-e024-4cb2-8477-76b5a2f2c03c.png)
-
-![sum_in_yz_nj_20210818](https://user-images.githubusercontent.com/59010287/130061654-5edd9ad7-498a-44ba-9e17-81ab3bff86ca.png)
+![new_in_yz_20210819](https://user-images.githubusercontent.com/59010287/130193031-7a78b53f-4927-441c-bcc4-d159637fe91a.png)
+![now_in_yz_20210819](https://user-images.githubusercontent.com/59010287/130193052-ac20ee2c-1e55-4992-bf26-22e1f3ae3495.png)
+![new_in_yz_nj_20210819](https://user-images.githubusercontent.com/59010287/130193043-e2c57e35-f396-48c1-af4d-fdcc5ca229f1.png)
+![sum_in_yz_nj_20210819](https://user-images.githubusercontent.com/59010287/130193055-ffb7de95-ee3d-467a-b168-20c7827694be.png)
 
 ## Changelog
 [8/14](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/tag/1.0.0)  
@@ -68,6 +66,10 @@ initial build
 [8/18](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/tag/1.1.3)    
 > 2021年8月18日0-24时，我市新增本土新冠肺炎确诊病例3例（其中轻型1例，普通型2例）；从来源看，均来自集中隔离点和封闭管理人员。截至目前，全市累计报告本土确诊病例564例。经过医护人员精心治疗，经专家评估，当日13名确诊患者达到出院标准转至定点医院康复，累计出院48例。
 
+8/19  
+> 2021年8月19日0-24时，我市新增本土新冠肺炎确诊病例2例（其中轻型2例）；从来源看，均来自集中隔离点。截至目前，全市累计报告本土确诊病例566例。
+> 
+> 经过医护人员精心治疗，经专家评估，8月19日，22名确诊患者达到出院标准转至定点医院康复，累计出院70例。
 
 ## LICENSE
 [MIT License](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/blob/main/LICENSE)  
