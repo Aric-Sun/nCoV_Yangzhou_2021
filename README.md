@@ -38,13 +38,14 @@
 | 8/18 | 3    | 0    | 564  | 235  | 13   | 48     | 516    |
 | 8/19 | 2    | 0    | 566  | 235  | 22   | 70     | 496    |
 | 8/20 | 1    | 0    | 567  | 235  | 18   | 88     | 479    |
+| 8/21 | 1    | 0    | 568  | 235  | 25   | 113    | 455    |
 
 ### 可视化图表
 
-![new_in_yz_20210820](https://user-images.githubusercontent.com/59010287/130313691-b3d57cb6-dec6-4f7f-b5b9-ac2d9ea676be.png)
-![now_in_yz_20210820](https://user-images.githubusercontent.com/59010287/130313694-17c8a203-1ef0-4807-a842-b228849b2608.png)
-![new_in_yz_nj_20210820](https://user-images.githubusercontent.com/59010287/130313693-535c160b-acc1-494d-ab7f-c9d8889d0d2a.png)
-![sum_in_yz_nj_20210820](https://user-images.githubusercontent.com/59010287/130313695-78add950-77a3-4247-9b21-b18f3e20b13e.png)
+![new_in_yz](https://user-images.githubusercontent.com/59010287/130352924-bb72d08e-33b9-4cc0-83b6-68bfb0322509.png)
+![now_in_yz](https://user-images.githubusercontent.com/59010287/130352929-2e691919-7b85-42e8-879f-b89174e3f257.png)
+![new_in_yz_nj](https://user-images.githubusercontent.com/59010287/130352926-67e46020-f229-4a41-9c94-4775f2ccfc92.png)
+![sum_in_yz_nj](https://user-images.githubusercontent.com/59010287/130352930-7c3afe31-4614-4896-8349-de5fd8640094.png)
 
 ## Changelog
 [8/14](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/tag/1.0.0)  
@@ -78,6 +79,11 @@ initial build
 > 经过医护人员精心治疗，经专家评估，8月20日18名确诊患者达到出院标准转至定点医院康复，累计出院88例。
 > 
 > 从8月14日起，根据前7轮全员核酸检测结果，进行了综合研判，进一步提高核酸检测工作的科学性、精准性，更加聚焦于重点地区和重点人群。原则上，第5-7轮出现过病例的街道（乡镇），每天检测1次；只在1-4轮出现病例的，3天1次；从未出现病例的，5天1次。之后根据筛查发现病例的情况及其行动轨迹，进行动态调整，优化检测策略。
+
+[8/21](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/tag/1.1.6)  
+> 2021年8月21日0-24时，我市新增本土新冠肺炎确诊病例1例，普通型，来自集中隔离点。截至目前，全市累计报告本土确诊病例568例。
+> 
+> 经过医护人员精心治疗，经专家评估，当日25名确诊患者达到出院标准转至定点医院康复，累计出院113例。
 
 ## LICENSE
 [MIT License](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/blob/main/LICENSE)  
