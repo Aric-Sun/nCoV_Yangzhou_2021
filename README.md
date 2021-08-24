@@ -40,13 +40,14 @@
 | 8/20 | 1    | 0    | 567  | 235  | 18   | 88     | 479    |
 | 8/21 | 1    | 0    | 568  | 235  | 25   | 113    | 455    |
 | 8/22 | 0    | 0    | 568  | 235  | 27   | 140    | 428    |
+| 8/23 | 0    | 0    | 568  | 235  | 35   | 175    | 393    |
 
 ### 可视化图表
 
-![图片1](https://user-images.githubusercontent.com/59010287/130479274-e92dcea9-f5a2-4467-8dcf-57d817928ccc.png)
-![图片4](https://user-images.githubusercontent.com/59010287/130479286-a935b3c7-7fb0-418b-a1d3-565ac9cc7909.png)
-![图片3](https://user-images.githubusercontent.com/59010287/130479283-846cb293-7b63-4f4c-b7b9-b54fec52fd4f.png)
-![图片5](https://user-images.githubusercontent.com/59010287/130479291-96121f81-b890-441e-8793-1f0bf07b05d4.png)
+![图片1](https://user-images.githubusercontent.com/59010287/130597671-332491d1-894b-46cb-9145-ef1c3934925a.png)
+![图片3](https://user-images.githubusercontent.com/59010287/130597687-bd367a96-fc3d-452f-9339-366cc78bb401.png)
+![图片2](https://user-images.githubusercontent.com/59010287/130597681-cd27f3b1-fa07-4a5f-8ed0-271e286cedc7.png)
+![图片4](https://user-images.githubusercontent.com/59010287/130597656-ce868437-ddec-455f-b7dc-799189db380d.png)
 
 ## Changelog
 [8/14](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/tag/1.0.0)  
@@ -94,6 +95,13 @@ initial build
 > 8月22日，我市对重点地区重点人群进行了核酸检测，共采样、检测46.56万人，截至8月22日24时，当日未检出阳性样本。
 > 
 > 主城区封控管理小区管控措施今天调整，足不出户变为足不出小区。
+
+8/23  
+> 2021年8月23日0-24时，我市无新增本土新冠肺炎确诊病例。截至目前，全市累计报告本土确诊病例568例。经过医护人员精心治疗，经专家评估，当日35名确诊患者达到出院标准转至定点医院康复，累计出院175例。
+> 
+> 8月23日，我市对部分地区开展了核酸检测，共采样、检测59万人，截至23日24时，未检出阳性样本。
+> 
+> 根据疫情形势，8月24日起，我市对主城区部分乡镇的管控措施进行了调整，主要涉及广陵区头桥镇、李典镇、沙头镇和生态科技新城杭集镇、泰安镇。上述区域内小区（自然村）实行“每户每3天限一人”进出小区（自然村），出行范围限于所在乡镇内。
 
 ## LICENSE
 [MIT License](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/blob/main/LICENSE)  
