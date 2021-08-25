@@ -41,13 +41,14 @@
 | 8/21 | 1    | 0    | 568  | 235  | 25   | 113    | 455    |
 | 8/22 | 0    | 0    | 568  | 235  | 27   | 140    | 428    |
 | 8/23 | 0    | 0    | 568  | 235  | 35   | 175    | 393    |
+| 8/24 | 1    | 0    | 569  | 235  | 27   | 202    | 367    |
 
 ### 可视化图表
 
-![图片1](https://user-images.githubusercontent.com/59010287/130597671-332491d1-894b-46cb-9145-ef1c3934925a.png)
-![图片3](https://user-images.githubusercontent.com/59010287/130597687-bd367a96-fc3d-452f-9339-366cc78bb401.png)
-![图片2](https://user-images.githubusercontent.com/59010287/130597681-cd27f3b1-fa07-4a5f-8ed0-271e286cedc7.png)
-![图片4](https://user-images.githubusercontent.com/59010287/130597656-ce868437-ddec-455f-b7dc-799189db380d.png)
+![图片1](https://user-images.githubusercontent.com/59010287/130814521-ec316513-b596-4df7-82be-1735877e8889.png)
+![图片3](https://user-images.githubusercontent.com/59010287/130814530-128e914b-5edc-4883-87ee-52d762205ba7.png)
+![图片2](https://user-images.githubusercontent.com/59010287/130814527-faccf798-271b-4e4b-bc47-873fc7247927.png)
+![图片4](https://user-images.githubusercontent.com/59010287/130814534-ee2792ef-c959-456e-a67a-7ec2b90ede96.png)
 
 ## Changelog
 [8/14](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/tag/1.0.0)  
@@ -102,6 +103,16 @@ initial build
 > 8月23日，我市对部分地区开展了核酸检测，共采样、检测59万人，截至23日24时，未检出阳性样本。
 > 
 > 根据疫情形势，8月24日起，我市对主城区部分乡镇的管控措施进行了调整，主要涉及广陵区头桥镇、李典镇、沙头镇和生态科技新城杭集镇、泰安镇。上述区域内小区（自然村）实行“每户每3天限一人”进出小区（自然村），出行范围限于所在乡镇内。
+
+[8/24](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/tag/1.1.7)  
+> 2021年8月24日0-24时，我市新增本土新冠肺炎确诊病例1例，轻型，来自集中隔离点。新增病例是此前确诊病例的家人，根据流调情况，此前确诊病例是在封控小区居家管理期间被隔壁邻居感染，继而传播给昨日新增病例。
+> 8月18日起，新增病例作为确诊病例的密接被集中隔离管理，每天核酸检测，直至昨日核酸检测结果阳性，经专家诊断为确诊病例。
+> 
+> 截至目前，全市累计报告本土确诊病例569例。经过医护人员精心治疗，经专家评估，当日27名确诊患者达到出院标准转至定点医院康复，累计出院202例。
+> 
+> 8月24日，我市对部分地区开展了核酸检测，共采样、检测55.91万人，截至24日24时，当日检出1例阳性，来自集中隔离点。
+> 
+> 主城区部分乡镇管控措施调整,新增4个乡镇“每户每3天限一人”：邗江区公道镇、杨寿镇、瓜洲镇和经济技术开发区朴席镇。
 
 ## LICENSE
 [MIT License](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/blob/main/LICENSE)  
