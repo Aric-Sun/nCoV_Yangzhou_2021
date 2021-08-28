@@ -44,13 +44,14 @@
 | 8/24 | 1    | 0    | 569  | 235  | 27   | 202    | 367    |
 | 8/25 | 0    | 0    | 569  | 235  | 36   | 238    | 331    |
 | 8/26 | 1    | 0    | 570  | 235  | 20   | 258    | 312    |
+| 8/27 | 0    | 0    | 570  | 235  | 38   | 296    | 274    |
 
 ### 可视化图表
 
-![图片1](https://user-images.githubusercontent.com/59010287/131148259-071de1e0-7502-41d7-be33-3bea48e8cce0.png)
-![图片2](https://user-images.githubusercontent.com/59010287/131148266-065fcf1a-7f17-4610-97e5-137954102137.png)
-![图片3](https://user-images.githubusercontent.com/59010287/131148272-3941b807-63ad-4a03-8eb5-7a9b2bb0dc9b.png)
-![图片4](https://user-images.githubusercontent.com/59010287/131148280-d32bbc41-a03e-42b7-afdc-cc39203f0b18.png)
+![图片1](https://user-images.githubusercontent.com/59010287/131221288-5ed7fbe4-7a02-4854-9286-d34e36389213.png)
+![图片2](https://user-images.githubusercontent.com/59010287/131221291-b4b7c92b-d13d-49c0-b0d5-ffd2a2ee708f.png)
+![图片3](https://user-images.githubusercontent.com/59010287/131221295-65178369-f5b5-407a-a8d5-fc34d9804e7a.png)
+![图片4](https://user-images.githubusercontent.com/59010287/131221298-99607dfd-20d8-4019-8953-38bd2242bf27.png)
 
 ## Changelog
 [8/14](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/tag/1.0.0)  
@@ -131,6 +132,11 @@ initial build
 > 通过对病例流行病学调查，对已排查出151名密切接触者和次密接均已按照有关规定进行隔离管控，**第二轮核酸检测结果均为阴性**。在昨日送检的93份确诊病例相关场所的物品、环境样本中，**共检出2份阳性样本，为家中物品样本**，已经对相关场所进行了全面消杀。
 > 
 > 8月26日，我市对部分地区开展了核酸检测，共采样、检测152万人。截至26日24时，当日检出阳性1例，来自封控管理小区，相关情况已在昨天的发布会上进行了通报。
+
+8/27  
+> 8月27日0-24时，我市无新增本土新冠肺炎确诊病例。截至目前，全市累计报告本土确诊病例570例。经过医护人员精心治疗，经专家评估，当日38名确诊患者达到出院标准转至定点医院康复，累计出院296例。
+> 
+> 8月27日，我市对部分地区开展了核酸检测，共采样、检测140.66万人。截至27日24时，未检出阳性样本。
 
 ## LICENSE
 [MIT License](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/blob/main/LICENSE)  
