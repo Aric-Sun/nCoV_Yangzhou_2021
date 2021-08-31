@@ -47,13 +47,14 @@
 | 8/27 | 0    | 0    | 570  | 235  | 38   | 296    | 274    |
 | 8/28 | 0    | 0    | 570  | 235  | 36   | 332    | 238    |
 | 8/29 | 0    | 0    | 570  | 235  | 45   | 377    | 193    |
+| 8/30 | 0    | 0    | 570  | 235  | 50   | 427    | 143    |
 
 ### 可视化图表
 
-![图片1](https://user-images.githubusercontent.com/59010287/131394946-eb9c3143-8bad-4320-a76b-e5fcdcb77756.png)
-![图片2](https://user-images.githubusercontent.com/59010287/131394952-06a092c5-8959-40f8-8b78-97ad7880bf03.png)
-![图片3](https://user-images.githubusercontent.com/59010287/131394955-cd31b8a4-7d2a-433b-b57f-f0317f7c1098.png)
-![图片4](https://user-images.githubusercontent.com/59010287/131394957-bdde0b78-ea4c-4447-b6d3-42dff1f91b9f.png)
+![图片1](https://user-images.githubusercontent.com/59010287/131506375-9732c3d3-5097-4b44-89a6-f841ec61f77e.png)
+![图片2](https://user-images.githubusercontent.com/59010287/131506382-67b26dd6-894a-4941-8874-04ae5802066a.png)
+![图片3](https://user-images.githubusercontent.com/59010287/131506395-aa6de40b-a430-4714-8696-6f84787b9a97.png)
+![图片4](https://user-images.githubusercontent.com/59010287/131506403-9c2f9e4d-d0b8-42e5-9c24-21d34a9c5b51.png)
 
 ## Changelog
 [8/14](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/tag/1.0.0)  
@@ -149,6 +150,10 @@ initial build
 > 8月29日0-24时，我市无新增新冠肺炎确诊病例。截至目前，全市累计报告本土确诊病例570例。经过医护人员精心治疗，经专家评估，当日45名确诊患者达到出院标准转至定点医院康复，累计出院377例。
 > 
 > 8月29日，我市对部分地区开展了核酸检测，共采样、检测25.7万人。截至29日24时，未检出阳性样本。
+
+8/30  
+> 2021年8月30日0-24时，我市无新增新冠肺炎确诊病例。新增出院50例。
+> 7月28日至今，我市累计报告本土确诊病例570例，出院427例。
 
 ## LICENSE
 [MIT License](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/blob/main/LICENSE)  
