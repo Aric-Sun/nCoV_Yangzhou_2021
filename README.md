@@ -49,13 +49,14 @@
 | 8/29 | 0    | 0    | 570  | 235  | 45   | 377    | 193    |
 | 8/30 | 0    | 0    | 570  | 235  | 50   | 427    | 143    |
 | 8/31 | 0    | 0    | 570  | 235  | 39   | 466    | 104    |
+| 9/1  | 0    | 0    | 570  | 235  | 21   | 487    | 83     |
 
 ### 可视化图表
 
-![图片1](https://user-images.githubusercontent.com/59010287/131692862-6ebd168f-83bb-4fdb-bd15-ee59056112d8.png)
-![图片2](https://user-images.githubusercontent.com/59010287/131692870-fa5db64a-1ebe-4ec8-be64-9e6e6654170d.png)
-![图片3](https://user-images.githubusercontent.com/59010287/131692889-332a67a1-8493-4edf-9445-480b1953861d.png)
-![图片4](https://user-images.githubusercontent.com/59010287/131692894-2aaca661-930d-43aa-9bb3-fc0b1843ddae.png)
+![图片1](https://user-images.githubusercontent.com/59010287/131879253-131ac2a0-54ca-4925-bfaa-eb627b159542.png)
+![图片2](https://user-images.githubusercontent.com/59010287/131879260-221f059a-070d-4e8a-8493-99721ffe74dd.png)
+![图片3](https://user-images.githubusercontent.com/59010287/131879265-6bb702d3-95e6-4563-b474-4cc5f0b6cfce.png)
+![图片4](https://user-images.githubusercontent.com/59010287/131879271-a4cda3cd-76a7-4254-9743-8d8b2b523670.png)
 
 ## Changelog
 [8/14](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/tag/1.0.0)  
@@ -159,6 +160,12 @@ initial build
 8/31  
 > 2021年8月31日0-24时，我市无新增新冠肺炎确诊病例。新增出院39例。
 > 7月28日至今，我市累计报告本土确诊病例570例，出院466例。
+
+9/1  
+> 2021年9月1日0-24时，我市无新增新冠肺炎确诊病例。新增出院21例。
+> 7月28日至今，我市累计报告本土确诊病例570例，出院487例。
+> 
+> 根据疫情防控工作实际，从**9月3日**起调整主城区封控小区（自然村）（未有过阳性感染者）管理措施，封控小区（自然村）**不再实行出入证管理**。居民出入小区（自然村）须规范佩戴口罩，查验苏康码，测体温。倡导非必要不出门，小区（自然村）内人员不聚集、不扎堆。
 
 ## LICENSE
 [MIT License](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/blob/main/LICENSE)  
