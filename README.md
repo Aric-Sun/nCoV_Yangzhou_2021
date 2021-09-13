@@ -60,13 +60,14 @@
 | 9/9  | 0    | 0    | 570  | 235  | 3    | 565    | 5      |
 | 9/10 | 0    | 0    | 570  | 235  | 3    | 568    | 2      |
 | 9/11 | 0    | 0    | 570  | 235  | 0    | 568    | 2      |
+| 9/12 | 0    | 0    | 570  | 235  | 1    | 569    | 1      |
 
 ### 可视化图表
 
-![图片4](https://user-images.githubusercontent.com/59010287/132989308-ef76c43c-42ec-4731-b46a-2777bce4c44a.png)
-![图片1](https://user-images.githubusercontent.com/59010287/132989314-dd84be8e-5e94-4cb4-bb53-7f0f37870e40.png)
-![图片2](https://user-images.githubusercontent.com/59010287/132989316-21af89de-75b0-42fc-98a7-eba8dc441ebc.png)
-![图片3](https://user-images.githubusercontent.com/59010287/132989325-f01022d1-c7f0-4f80-b124-eb91d591f95d.png)
+![图片1](https://user-images.githubusercontent.com/59010287/133127898-a3632d8e-01fd-4103-8397-7960a0511b87.png)
+![图片2](https://user-images.githubusercontent.com/59010287/133127904-724259ff-545e-40f3-994d-4e0b32a4af98.png)
+![图片3](https://user-images.githubusercontent.com/59010287/133127911-a9954753-5ed3-4d20-b962-77d55f5e1260.png)
+![图片4](https://user-images.githubusercontent.com/59010287/133127916-e861d730-2ff2-48c1-9ee7-0d47a9bdd958.png)
 
 ## Changelog
 [8/14](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/tag/1.0.0)  
@@ -210,6 +211,9 @@ initial build
 
 9/11  
 > 2021年9月11日0-24时，我市无新增新冠肺炎确诊病例。无新增出院病例。7月28日至今，我市累计报告本土确诊病例570例，出院568例。目前，在定点医院隔离治疗的本土确诊病例2例，均为普通型。
+
+9/12  
+> 2021年9月12日0-24时，我市无新增新冠肺炎确诊病例。新增出院1例。7月28日至今，我市累计报告本土确诊病例570例，出院569例。目前，在定点医院隔离治疗的本土确诊病例1例，为普通型。
 
 ## LICENSE
 [MIT License](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/blob/main/LICENSE)  
