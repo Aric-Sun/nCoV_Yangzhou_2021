@@ -1,5 +1,6 @@
 # nCoV_Yangzhou_2021
-扬州2021新型冠状肺炎确诊病例轨迹汇总，以及新增病例数据可视化
+扬州2021新型冠状肺炎确诊病例轨迹汇总，以及新增病例数据可视化  
+现有确诊数归零，本项目完结撒花  
 
 ## 轨迹
 - 在文件列表中可见，也可直接[点击跳转](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/blob/main/%E8%BD%A8%E8%BF%B9.md)。
@@ -61,13 +62,14 @@
 | 9/10 | 0    | 0    | 570  | 235  | 3    | 568    | 2      |
 | 9/11 | 0    | 0    | 570  | 235  | 0    | 568    | 2      |
 | 9/12 | 0    | 0    | 570  | 235  | 1    | 569    | 1      |
+| 9/13 | 0    | 0    | 570  | 235  | 1    | 570    | 0      |
 
 ### 可视化图表
 
-![图片1](https://user-images.githubusercontent.com/59010287/133127898-a3632d8e-01fd-4103-8397-7960a0511b87.png)
-![图片2](https://user-images.githubusercontent.com/59010287/133127904-724259ff-545e-40f3-994d-4e0b32a4af98.png)
-![图片3](https://user-images.githubusercontent.com/59010287/133127911-a9954753-5ed3-4d20-b962-77d55f5e1260.png)
-![图片4](https://user-images.githubusercontent.com/59010287/133127916-e861d730-2ff2-48c1-9ee7-0d47a9bdd958.png)
+![图片5](https://user-images.githubusercontent.com/59010287/133339212-9b3d6a71-9cad-4cba-8d49-49ac744719a7.png)
+![图片6](https://user-images.githubusercontent.com/59010287/133339216-65707f19-5a04-4500-88c8-c11fc1d58600.png)
+![图片7](https://user-images.githubusercontent.com/59010287/133339221-2616f935-eb58-4172-a31d-76614d1cc2b1.png)
+![图片8](https://user-images.githubusercontent.com/59010287/133339229-01da1eae-be20-4475-9753-f9dc6b3e4314.png)
 
 ## Changelog
 [8/14](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/releases/tag/1.0.0)  
@@ -214,6 +216,9 @@ initial build
 
 9/12  
 > 2021年9月12日0-24时，我市无新增新冠肺炎确诊病例。新增出院1例。7月28日至今，我市累计报告本土确诊病例570例，出院569例。目前，在定点医院隔离治疗的本土确诊病例1例，为普通型。
+
+9/13  
+> 2021年9月13日0-24时，我市无新增新冠肺炎确诊病例。新增出院1例。7月28日至今，我市累计报告本土确诊病例570例，**均已出院**。 
 
 ## LICENSE
 [MIT License](https://github.com/Aric-Sun/nCoV_Yangzhou_2021/blob/main/LICENSE)  
